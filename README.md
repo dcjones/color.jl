@@ -10,7 +10,7 @@ the same under florescent and incandescent light), and the full spectrum of
 X11/W3C named colors ("Misty Rose 4" anyone?).
 
 
-# Synopsis 
+## Synopsis 
 
 ```julia
 c = parse_color("Indian Red") # parse a named colors
@@ -48,13 +48,20 @@ coordinates) colors by default. The goal of this package preempt the need to
 rescue Julia from RGBland.
 
 
+## TLDR
+
+![TLDR](http://cs.washington.edu/dcjones/color.jl/tldr.svg)
+
 
 ## References
 
 What perceptually uniform colorspaces are and why you should be using them:
 
-Ihaka, R. (2003) Colour for Presentation Graphics
-
-Zeileis, A., Hornik, K., and Murrell, P. (2009). Escaping RGBland: Selecting colors for statistical graphics. Computational Statistics & Data Analysis, 53(9), 3259–3270. doi:10.1016/j.csda.2008.11.033
+* Ihaka R (2003). Colour for Presentation Graphics." In K Hornik, F Leisch, A
+ Zeileis (eds.), Proceedings of the 3rd International Workshop on Distributed Statistical
+ Computing, Vienna, Austria. ISSN 1609-395X
+* Zeileis, A., Hornik, K., and Murrell, P. (2009). Escaping RGBland: Selecting
+  colors for statistical graphics. Computational Statistics and Data Analysis,
+  53(9), 3259–3270. doi:10.1016/j.csda.2008.11.033
 
 
