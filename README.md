@@ -50,7 +50,7 @@ rescue Julia from RGBland.
 
 ## TLDR
 
-![TLDR](http://cs.washington.edu/dcjones/color.jl/tldr.svg)
+![TLDR](http://cs.washington.edu/homes/dcjones/color.jl/tldr.svg)
 
 
 ## References
